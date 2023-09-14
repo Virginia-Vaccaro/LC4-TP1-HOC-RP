@@ -1,6 +1,6 @@
 import './App.css'
-import ButtonTooltip from './ButtonTooltip'
-import Toggle from './Toggle'
+import ButtonTooltip from './Components/ButtonTooltip'
+import Toggle from './Components/Toggle'
 
 const App = () => {
   return (
